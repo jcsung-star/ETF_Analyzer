@@ -33,7 +33,6 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 ![image](https://user-images.githubusercontent.com/87351302/140452718-2b5d35dc-0cc7-4ee4-96f1-9d0801bd8fec.png)
 ![image](https://user-images.githubusercontent.com/87351302/140452796-ff970a4a-ad5a-48bb-bb95-100157e38391.png)
 
-http://localhost:8954/lab/tree/Virtual_Class_Challenges/November_7/Module_7_Challenge/Starter_Code/etf_analyzer.ipynb
 ---
 
 ## Contributors
