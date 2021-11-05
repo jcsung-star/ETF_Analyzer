@@ -17,6 +17,7 @@ To ensure installation was complete, run the following...
     1) conda list sqlalchemy
     2) conda list viola
 
+---
 
 ## Usage
 
@@ -25,8 +26,14 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 ---
 
 ## Visualization
-insert result of the conda list
+![image](https://user-images.githubusercontent.com/87351302/140453194-1a68d5d3-0e7a-40a5-b93b-10f5581ed3b7.png)
+![image](https://user-images.githubusercontent.com/87351302/140453088-fc7bc319-1192-46ec-b8c1-1bf2d7534d41.png)
 
+![image](https://user-images.githubusercontent.com/87351302/140452649-f40daeb6-b6f1-4e13-8da8-346667d01406.png)
+![image](https://user-images.githubusercontent.com/87351302/140452718-2b5d35dc-0cc7-4ee4-96f1-9d0801bd8fec.png)
+![image](https://user-images.githubusercontent.com/87351302/140452796-ff970a4a-ad5a-48bb-bb95-100157e38391.png)
+
+http://localhost:8954/lab/tree/Virtual_Class_Challenges/November_7/Module_7_Challenge/Starter_Code/etf_analyzer.ipynb
 ---
 
 ## Contributors
