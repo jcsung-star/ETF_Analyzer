@@ -26,6 +26,7 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 ---
 
 ## Visualization
+
 ![image](https://user-images.githubusercontent.com/87351302/140453194-1a68d5d3-0e7a-40a5-b93b-10f5581ed3b7.png)
 ![image](https://user-images.githubusercontent.com/87351302/140453088-fc7bc319-1192-46ec-b8c1-1bf2d7534d41.png)
 
@@ -33,6 +34,7 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 ![image](https://user-images.githubusercontent.com/87351302/140452718-2b5d35dc-0cc7-4ee4-96f1-9d0801bd8fec.png)
 ![image](https://user-images.githubusercontent.com/87351302/140452796-ff970a4a-ad5a-48bb-bb95-100157e38391.png)
 
+![image](https://user-images.githubusercontent.com/87351302/140454931-04f2af4a-44b0-443e-ac75-584e52b0e3db.png)
 ![image](https://user-images.githubusercontent.com/87351302/140453886-18f43c29-5e18-4246-95ac-3f43db26edd8.png)
 ![image](https://user-images.githubusercontent.com/87351302/140454007-7db57420-cb6d-48d8-834b-4747a0f99392.png)
 
