@@ -42,7 +42,7 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 
 ## Contributors
 
-linkedin.com/in/john-sung-3675569
+[John Sung](https://linkedin.com/in/john-sung-3675569) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  John Sung" width=15/>](https://linkedin.com/in/john-sung-3675569/)
 
 ---
 
