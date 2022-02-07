@@ -1,4 +1,21 @@
-# Web Application for ETF Analyzer
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Web%20Application%20for%20ETF%20Analyzer%20&fontSize=30&fontColor=black)
+
+<!-- header is made with: https://github.com/kyechan99/capsule-render -->
+
+[John Sung](https://linkedin.com/in/john-sung-3675569) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  John Sung" width=15/>](https://linkedin.com/in/john-sung-3675569/)
+                                 
+---
+
+### Table of Contents
+
+* [Overview](#overview)
+* [Technoligies](#technologies)
+* [Usage](#usage)
+* [Visualization](#visualization)
+* [License](#license)  
+
+
+## Overview
 
 This application provides a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF. You will be able to analyze the daily returns of the ETF stocks both individually and as a whole and then deploy the visualizations to a web application by using the Voilà library.
 
@@ -37,12 +54,6 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 ![image](https://user-images.githubusercontent.com/87351302/140454931-04f2af4a-44b0-443e-ac75-584e52b0e3db.png)
 ![image](https://user-images.githubusercontent.com/87351302/140453886-18f43c29-5e18-4246-95ac-3f43db26edd8.png)
 ![image](https://user-images.githubusercontent.com/87351302/140454007-7db57420-cb6d-48d8-834b-4747a0f99392.png)
-
----
-
-## Contributors
-
-[John Sung](https://linkedin.com/in/john-sung-3675569) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  John Sung" width=15/>](https://linkedin.com/in/john-sung-3675569/)
 
 ---
 
